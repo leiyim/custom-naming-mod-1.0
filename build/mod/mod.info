@@ -1,0 +1,11 @@
+{
+	id = qi.customnames,
+	name = Custom NPC Names,
+	version = 1.0,
+	gameVersion = 1.0.1,
+	author = qi,
+	description = Replaces all NPC names with customizable multi-language names.,
+	clientside = false,
+	language = names.,
+	naming-mod = 1.0\\build\\mod\/mod.info
+}
