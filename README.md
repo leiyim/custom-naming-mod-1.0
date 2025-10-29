@@ -8,10 +8,12 @@ If no corresponding .lang file exists for a particular language, the game will d
 
 Example示例：  
 
+zh-CN.lang  
 [names]  
 elder=Diligo,Haydex  
 male=Aaron,Adam,Alastair,Albert,Alexander  
 female=Abigail,Abitha,Alexis,Alicia,Amity  
 neutral=Alex,Ash,Bobby,Casey,Darcy  
 last=Smith, Johnson,Williams,Brown,Jones,Miller  
+
 
